@@ -9,6 +9,12 @@ console.log("Ejemplo de bucle for clásico:");
 for (let i = 0; i < 5; i++) {
     console.log("El valor de i es: " + i);
 }
+
+//COMPROBAR SI EL VALOR ES DIFERENTE DE CERO
+// En este caso, se está comprobando si la variable "prueba" es diferente de cero.
+const prueba = 9
+console.log(prueba !==0)
+
 // Salida:
 // El valor de i es: 0
 // El valor de i es: 1
