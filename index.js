@@ -21,3 +21,14 @@ console.log(prueba !==0)
 // El valor de i es: 2
 // El valor de i es: 3
 // El valor de i es: 4
+
+
+let hayComida = true;
+
+if (hayComida) {
+    "Cocinar"
+} else {
+    "No cocinar"
+}
+
+//Aqui te dice que SI hay comida, entonces cocinar, de lo contrario no cocinar. 
